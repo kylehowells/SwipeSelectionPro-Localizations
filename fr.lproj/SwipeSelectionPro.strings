@@ -21,9 +21,9 @@
 	SENSITIVITY = "Sensibilité";
 	SWIPE_SENSITIVITY = "À quelle sensibilité doit être SwipeSelection ?";
 
-	NORMAL = "Normal";
-	REDUCED = "Réduit";
-	INSENSITIVE = "Peu sensible";
+	NORMAL = "Normale";
+	REDUCED = "Limitée";
+	INSENSITIVE = "Faible";
 
 
 	SWIPE_SPEED = "Vitesse du swipe";
@@ -37,5 +37,5 @@
 
 
 	THREE_FINGER_SWIPE = "Swipe avec 3 doigts";
-	THREE_FINGER_SWIPE_FOOTER = "Utiliser trois doigts pour aller au début ou à la fin du texte. (Utiliser de préférence sur iPad)";
+	THREE_FINGER_SWIPE_FOOTER = "Utiliser trois doigts pour aller au début ou à la fin du texte. (Optimisé pour iPad)";
 }
